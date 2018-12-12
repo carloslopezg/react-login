@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "mail": "c.lopez_1504@hotmail.es",
+      "password": "Perdeveloper",
+      "name": "Carlos López",
+      "sex": "Masculino",
+      "age": 27
+    },
+    {
+      "id": 2,
+      "mail": "carlos@avalogics.com",
+      "password": "Avadeveloper",
+      "name": "Roberto Gómez",
+      "sex": "Masculino",
+      "age": 27
+    }
+  ]
+}
